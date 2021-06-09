@@ -1,0 +1,9 @@
+span{
+   width: 100px;
+   height: 100px;
+   overflow: hidden;
+   color: black;
+   border: 1px solid blue;
+   display: block;
+}
+
